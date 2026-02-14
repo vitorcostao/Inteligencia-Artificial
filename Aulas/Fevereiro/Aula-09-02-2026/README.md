@@ -61,3 +61,13 @@ A IA Generativa é um tipo especializado de rede neural artificial. O que a dife
 ### Evolução da Inteligência Artificial
 
 A Inteligência Artificial existe desde meados do século XX, focando inicialmente em sistemas de regras rígidas e lógica simbólica para resolver problemas específicos. Atuamente, seu uso é mais amplo, pois enquanto as máquinas antigas dependiam de programação humana direta para cada tarefa', o Machine Learning e o Deep Learning permitiram que os sistemas passassem a aprender e a identificar padrões sozinhos a partir de grandes volumes de dados. Essa transição da "computação baseada em regras" para a "computação baseada em aprendizado" culminou na IA Generativa, que hoje não apenas analisa informações, mas cria conteúdos novos e originais, tornando a tecnologia uma ferramenta criativa e onipresente no cotidiano, de uma forma que as primeiras máquinas inteligentes jamais poderiam prever.
+
+---
+
+## Referências Bibliográficas
+
+**RUSSELL, Stuart J.; NORVIG, Peter. Artificial intelligence:
+a modern approach. 4th ed. Pearson, 2021. (Capítulo 1)**
+
+**NOBRE, Cristiane Neri. Inteligência Artificial: Passado,
+presente e futuro. Material de aula. 2024.**
